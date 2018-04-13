@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FILEHEADER</key>
+	<string>
+/**
+ ** 
+ ** ___PACKAGENAME___
+ **
+ ** Created by: Corth1545617 on ___DATE___
+ ** Copyright © 2018 Righteous and Grace, Inc. All rights reserved.
+ ** 
+ */</string>
+</dict>
+</plist>
